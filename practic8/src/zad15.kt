@@ -1,0 +1,15 @@
+fun main()
+{
+   var people1: Exam = Exam()
+    people1.Input()
+    people1.A()
+    people1.B()
+    var people2: Exam = Exam()
+    people2.Input()
+    people2.A()
+    people2.B()
+    var people3: Exam = Exam()
+    people3.Input()
+    people3.A()
+    people3.B()
+}
